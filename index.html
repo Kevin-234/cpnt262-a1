@@ -8,11 +8,17 @@
   <script src="./JS/client.js"></script>
 </head>
 <body>
-  <div class="header">Created by Tcip
-    <br> <a href="http://www.tcip.se" title="www.tcip.se">www.tcip.se</a></div>
-  
-  <p>Simple clock script</p>
-  
-  <p id="clock"></p>
+  <div class="wrapper">
+    <div class="overlay" onload="updateTime">
+        <p id="clock">
+            <span id="hours"></span><span>:</span><span id="minutes"></span>
+        </p>
+        <p class="date">
+            <span id="day"></span>
+            <br/>
+            <span id="date"></span>
+        </p>
+    </div>
+</div>
 </body>
 </html>
