@@ -1,5 +1,5 @@
-# cpnt262-A1 Codepen init()
-## Kevin Taguchi
+# cpnt262-A1: Codepen init()
+## Author: Kevin Taguchi
 
 ## GH [demo](https://kevin-234.github.io/cpnt262-a1/)
 
