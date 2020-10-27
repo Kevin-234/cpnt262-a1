@@ -3,4 +3,4 @@
 
 ## GH [demo](https://kevin-234.github.io/cpnt262-a1/)
 
-## the one I chose [Codepen](https://codepen.io/daniellenall/pen/VJrdYY) 
+## The one I chose [Codepen](https://codepen.io/daniellenall/pen/VJrdYY) 
